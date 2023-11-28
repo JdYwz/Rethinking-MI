@@ -1,3 +1,5 @@
+Forked from https://github.com/sutd-visual-computing-group/Re-thinking_MI and tested locally, the test results are in attack_results.
+
 # Implementation of paper "Re-thinking Model Inversion Attacks Against Deep Neural Networks" - CVPR 2023
 [Paper](https://arxiv.org/pdf/2304.01669.pdf) | [Project page](https://ngoc-nguyen-0.github.io/re-thinking_model_inversion_attacks/)
 ## 1. Setup Environment
